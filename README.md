@@ -30,4 +30,5 @@ I explored different areas of tech in the past and I am pretty sure that writing
 
 ## :chart_with_upwards_trend:	 Stats 👨‍💻 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/hugoib?theme=light&font=Baloo%202&ext=activity)(https://leetcode.com/hugoib/)]
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hugoib?theme=light&font=Baloo%202&ext=activity&cache=0)](https://leetcode.com/hugoib/)
+
