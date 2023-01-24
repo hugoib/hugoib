@@ -14,7 +14,7 @@ I explored different areas of tech in the past and I am pretty sure that writing
 [![Instagram Badge](https://img.shields.io/badge/-hugoib-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hugoib/)](https://instagram.com/hugoib)
 
 ## ⚡ Technologies
-![React]
+React
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
