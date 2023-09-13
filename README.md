@@ -1,7 +1,7 @@
 
 ## Thanks for popping by 
 
-I am Hugo, a software engineer with 3 years full time and 2,5 years part time experience (during MSc. studies) in software development, data science, solutions architecture and project management.
+I am Hugo, a software engineer with 4 years full time and 2,5 years part time experience (during MSc. studies) in software development, data science, solutions architecture and project management.
 
 Worked in 6 different industries (Aviation, Healthcare, Automotive, Retail, Oil and Gas, Events) across 4 different countries (Brasil, US, Germany and Bolivia).
 
