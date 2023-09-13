@@ -1,5 +1,5 @@
 
-## Thanks for popping by :gun:
+## Thanks for popping by 
 
 I am Hugo, a software engineer with 3 years full time and 2,5 years part time experience (during MSc. studies) in software development, data science, solutions architecture and project management.
 
