@@ -9,7 +9,7 @@ I explored different areas of tech in the past and I am pretty sure that writing
 
 [Check out some of my projects here.](https://hugoib.github.io)
 
-[![Linkedin Badge](https://img.shields.io/badge/-hugoibanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoibanez/)](https://www.linkedin.com/in/hugoibanez/)
+[Or my linked in here:](https://www.linkedin.com/in/hugoibanez/)
 
 ## ⚡ Technologies
 
