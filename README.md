@@ -3,7 +3,9 @@
 
 I am Hugo, a senior software engineer with experience in software development, data science, solutions architecture and project management.
 
-Currently focused on leveraging AI to build and launch useful software that people will love to use. Building in public too: [follow my journey here.](https://x.com/hugoibanez_)
+Currently focused on leveraging AI to build and launch useful software that people will love to use. 
+
+Building in public too: [follow my journey here.](https://x.com/hugoibanez_)
 
 I explored different areas of tech in the past and I am pretty sure that writing code is my thing. 🤓
 
