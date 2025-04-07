@@ -9,7 +9,7 @@ I explored different areas of tech in the past and I am pretty sure that writing
 
 [Check out some of my projects here.](https://hugoib.github.io)
 
-[Or my linked in here:](https://www.linkedin.com/in/hugoibanez/)
+[Or my linked in here.](https://www.linkedin.com/in/hugoibanez/)
 
 ## ⚡ Technologies
 
