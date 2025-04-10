@@ -9,7 +9,7 @@ Currently focused on leveraging AI to build and launch useful software that peop
 
 Building in public too: [follow my journey here.](https://x.com/hugoibanez_)
 
-I explored different areas of tech in the past and I am pretty sure that writing code is my thing. 🤓
+Writing code is my thing. 🤓
 
 [Check out some of my projects here.](https://hugoib.github.io)
 
@@ -31,11 +31,6 @@ I explored different areas of tech in the past and I am pretty sure that writing
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-### 📊 GitHub Stats
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoib&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoib&layout=compact&theme=dark)
 
 ## :chart_with_upwards_trend:	 Stats 👨‍💻 LeetCode
 
