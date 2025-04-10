@@ -3,7 +3,7 @@
 
 I am Hugo, a senior software engineer with experience in software development, data science, solutions architecture and project management.
 
-My strenght is full-stack, from ideation to working deployed software. If there is code somewhere in it, I do it. 
+My strenght is full-stack, from ideation to working deployed software. If there is code somewhere in it, I'll do it. 
 
 Currently focused on leveraging AI to build and launch useful software that people will love to use. 
 
@@ -11,9 +11,8 @@ Building in public too: [follow my journey here.](https://x.com/hugoibanez_)
 
 Writing code is my thing. 🤓
 
-[Check out some of my projects here.](https://hugoib.github.io)
+[My links](https://linktr.ee/hugoib)
 
-[Or my linked in here.](https://www.linkedin.com/in/hugoibanez/)
 
 ## ⚡ Technologies
 
