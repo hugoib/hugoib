@@ -32,6 +32,11 @@ I explored different areas of tech in the past and I am pretty sure that writing
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+### 📊 GitHub Stats
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoib&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoib&layout=compact&theme=dark)
+
 ## :chart_with_upwards_trend:	 Stats 👨‍💻 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hugoib?theme=light&font=Baloo%202&ext=activity&cache=0)](https://leetcode.com/hugoib/)
