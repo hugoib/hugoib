@@ -14,7 +14,7 @@ In 2026, I also hosted a [hands-on workshop at KeyConf26 in Prague](https://keyc
 
 Writing code is my thing. 🤓
 
-[My links](https://linktr.ee/hugoib)
+[My landing](https://hugoib.github.io)
 
 
 ## ⚡ Technologies
