@@ -1,13 +1,18 @@
 
 ## Hi there! 👋🏻
 
-I am Hugo, a senior software engineer with experience in software development, data science, solutions architecture and project management.
 
-My strenght is full-stack, from ideation to working deployed software. If there is code somewhere in it, I'll do it. 
+My career goal is to use technology to make people's lives better, solve problems I genuinely care about, and build cool things with fascinating people.
 
-Currently focused on leveraging AI to build and launch useful software that people will love to use. 
+I'm a software engineer with 7+ years of professional experience, specializing in software architecture, technical leadership, and building products that solve real-world problems.
 
-Building in public too: [follow my journey here.](https://x.com/hugoibanez_)
+For the past four years, I've worked at [adorsys](https://adorsys.com), combining software engineering, architecture, and technical leadership. I lead an international team of 14 engineers, take projects from idea to production, and work with enterprise customers on digital identity, authentication, and the European Digital Identity Wallet ecosystem. I also contribute to technical consulting, business development, and industry events.
+
+Outside of work, I love bringing my own ideas to life. I've launched [SciCrumb](https://apps.apple.com/us/app/scicrumb/id6758953292), an iOS app that makes scientific research accessible, [ColorMatchAI](https://www.colormatchai.com), a personal color analysis tool, and [AgentsRumble](https://agentsrumble.com).
+
+In 2026, I also hosted a [hands-on workshop at KeyConf26 in Prague](https://keyconf.dev/) on issuing verifiable credentials with Keycloak.
+
+[Find me on X: ](https://x.com/hugoibanez_)
 
 Writing code is my thing. 🤓
 
