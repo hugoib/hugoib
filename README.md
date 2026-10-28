@@ -2,8 +2,6 @@
 ## Hi there! 👋🏻
 
 
-My career goal is to use technology to make people's lives better, solve problems I genuinely care about, and build cool things with fascinating people.
-
 I'm a software engineer with 7+ years of professional experience, specializing in software architecture, technical leadership, and building products that solve real-world problems.
 
 For the past four years, I've worked at [adorsys](https://adorsys.com), combining software engineering, architecture, and technical leadership. I lead an international team of 14 engineers, take projects from idea to production, and work with enterprise customers on digital identity, authentication, and the European Digital Identity Wallet ecosystem. I also contribute to technical consulting, business development, and industry events.
